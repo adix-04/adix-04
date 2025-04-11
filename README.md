@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blaza-4" alt="blaza-4" /></a> </p>
 
 - 🌱 I’m currently learning **basically everything**
-- 👀 Im intrested in **embedded systems**
+- 👀 Love to work with **embedded systems**
 - 🥷 Ready to collaborate 
 - 🌎 **Located** 
 
