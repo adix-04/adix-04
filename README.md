@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adix-04" alt="blaza-4" /></a> </p>
 
-- 🌱 I’m currently into **everything**
+- 🌱 I’m currently learning a **lot of things**
 - 👀 Love to work with **embedded systems**
 - 🥷 Ready to collaborate 
 - 🌎 **Located** 
